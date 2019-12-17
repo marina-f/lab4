@@ -1,0 +1,11 @@
+﻿  labStas4.cpp
+d:\marina inst\labstas4\labstas4\labstas4\bigint.hpp(965): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+d:\marina inst\labstas4\labstas4\labstas4\bigint.hpp(1024): warning C4267: =: преобразование из "size_t" в "long"; возможна потеря данных
+d:\marina inst\labstas4\labstas4\labstas4\labstas4.cpp(77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\marina inst\labstas4\labstas4\labstas4\labstas4.cpp(79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 312 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  labStas4.vcxproj -> D:\marina inst\labStas4\labStas4\x64\Release\labStas4.exe
